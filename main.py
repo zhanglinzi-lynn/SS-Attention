@@ -1,4 +1,4 @@
-__author__ = "Guan Song Wang"
+
 
 import argparse
 import math
